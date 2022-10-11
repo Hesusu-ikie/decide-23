@@ -3,12 +3,13 @@
 Plataforma voto electrónico educativa
 =====================================
 
-<<<<<<< HEAD
-=======
+
 hola
 
 mundo
->>>>>>> 560b3a9 (mundo)
+
+aaa
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
